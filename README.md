@@ -1,4 +1,4 @@
-# vue-typescript
+# Vue-Router-Vuex-Composition-api-Typescript
 
 ## Project setup
 ```
