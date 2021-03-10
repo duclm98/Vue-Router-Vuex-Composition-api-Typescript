@@ -1,4 +1,4 @@
-export default interface Product {
+export default interface ProductCart {
   id: string;
   image: string;
   title: string;
